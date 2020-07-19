@@ -136,9 +136,7 @@ body {
       font-weight: bold;
       border-bottom: 1px solid $text;
       margin-bottom: 1.8em;
-      &:hover {
-        text-decoration: none;
-      }
+      text-decoration: none;
     }
   }
   &__site-info {
@@ -157,9 +155,7 @@ body {
     &__link {
       font-weight: bold;
       font-size: 1.2em;
-      &:hover {
-        text-decoration: none;
-      }
+      text-decoration: none;
     }
   }
 }
